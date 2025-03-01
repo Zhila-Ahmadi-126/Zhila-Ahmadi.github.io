@@ -1,5 +1,5 @@
    <div align="center">
-        <img src="./image.jpg" alt="" width="1400"  height="300"><img src="./image.jpg" alt="" width="1400"  height="300">
+      <img src="./imggirl.jpg" alt="" width="400"  height="300">  <img src="./imag2.jpg" alt="" width="400"  height="300">
     </div>
 
 # 💫 About Me:
