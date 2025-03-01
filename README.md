@@ -1,8 +1,8 @@
-   <div align="center">
-      <img src="./imggirl.jpg" alt="" width="400"  height="300">  <img src="./imag2.jpg" alt="" width="400"  height="300">
+   <div align="center"  >
+      <img src="./imggirl.jpg" alt="" width="400"  height="300">  <img src="./imge2.jpg" alt="" width="400"  height="300">
     </div>
-
-# 💫 About Me:
+<div align="center" >
+# About Me:
 I am a senior web designer and a junior web developer.<br>I am teaching web design and web development at TOEFL Academy.<br>I am third-year Computer Science student at Herat State University.<br>I love programming .
 
 # 💻 Tech Stack:
@@ -24,3 +24,4 @@ I am a senior web designer and a junior web developer.<br>I am teaching web desi
 [![](https://visitcount.itsvg.in/api?id=Zhila-Ahmadi-126&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
