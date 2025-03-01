@@ -1,4 +1,6 @@
-
+   <div align="center">
+        <img src="./image.jpg" alt="" width="1400"  height="300"><img src="./image.jpg" alt="" width="1400"  height="300">
+    </div>
 
 # 💫 About Me:
 I am a senior web designer and a junior web developer.<br>I am teaching web design and web development at TOEFL Academy.<br>I am third-year Computer Science student at Herat State University.<br>I love programming .
